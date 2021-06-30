@@ -31,6 +31,11 @@ For this part, we will focus on the Outcomes Based on Launch Date in general, an
 ### Outcomes Based on Launch Date
 The following is a chart showing the Outcomes Based on Launch Date for the absolute accessible information.  We saw that the aggregate sum of every result (success, failed, canceled) for every month. The graph shows the maximum sum of each outcome as the successful column. Looking at the successful column, we can see that May has the highest number of successes and December has the lowest number of successes. Thereby, it can be concluded that the increase in the market is mainly concentrated in the summer and gradually decreases towards the end of the year. More notably, the successful column of December decreased more than the failed column in the same month.
 
+![Outcomes Based on Launch Date](resource/Outcomes_vs_Launch_Date.png)
+
+Now let's narrow the scope to subcategories and count the aggregate sum of results for every month. So if we only focus on the Theater category as the charts show below.  We likewise get a similar pattern of May having the most elevated number of successes and December having the least measure of successes.
+
+![Theater Outcomes Based on Launch Date](resource/Theater_Outcomes_vs_Launch.png)
 
 ### Outcomes Based on Goals
 
