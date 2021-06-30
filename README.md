@@ -20,6 +20,7 @@ Retrieved the Kickstarter data of 4115 rows to let Louise can make the decision 
 
 Based on the Kickstarter dataset, Louise's play Fever came close to its fundraising goal in a short amount of time. To achieve the goal of this project, she needs to understand of the successful campaigns from begin to end.
 
+There are explicit elements that I separated from the information that we could use the technique to make Louise without a doubt, and successful in getting the funding. Utilizing these bits of knowledge for progress, by acquiring comprehension of the achievement from begin to end and reflecting efforts that were successful plays.
 
 ## Analysis and Challenges
 
