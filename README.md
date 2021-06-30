@@ -24,7 +24,10 @@ There are explicit elements that I separated from the information that we could 
 
 ## Analysis and Challenges
 
+[Kickstarter](help.kickstarter.com/hc/en-us/articles/115004996453-What-is-Kickstarter-) is a subsidizing stage for innovative activities. Everything from movies, games, and music to craftsmanship, plan, and innovation. Kickstarter is brimming with eager, creative, and innovatve thoughts that are rejuvenated through the immediate help of others.
+
 ### Outcomes Based on Launch Date
+
 
 ### Outcomes Based on Goals
 
