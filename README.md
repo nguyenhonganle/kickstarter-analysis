@@ -1,8 +1,32 @@
-# kickstarter-analysis
-Performing analysis on Kickstarter data to uncover trends
+# Kickstarter-analysis
 
-# Overview the Project:
+> Performing analysis on Kickstarter data to uncover trends
 
-# Analysis and Challenges:
+## Table of Contents
 
-# Results:
+- [Overview the Project](#overview-the-project)
+- [Purpose](#purpose)
+- [Analysis and Challenges](#analysis-and-challenges)
+  - [Outcomes Based on Launch Date](#outcomes-based-on-launch-date)
+  - [Outcomes Based on Goals](#outcomes-based-on-goals)
+  - [Challenges and Difficulties Encountered](#challenges-and-difficulties-encountered)
+- [Results](#results)
+
+## Overview the Project
+
+Retrieved the Kickstarter data of 4115 rows to let Louise can make the decision on how different campaigns fared in relation to their launch dates and their funding goals.
+
+## Purpose
+
+Based on the Kickstarter dataset, Louise's play Fever came close to its fundraising goal in a short amount of time. To achieve the goal of this project, she needs to understand of the successful campaigns from begin to end.
+
+
+## Analysis and Challenges
+
+### Outcomes Based on Launch Date
+
+### Outcomes Based on Goals
+
+### Challenges and Difficulties Encountered
+
+## Results
