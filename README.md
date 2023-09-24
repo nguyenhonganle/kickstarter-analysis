@@ -68,19 +68,19 @@ I went through challenges and difficulties:
      
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+- What are two conclusions you can draw about the Outcomes based on the Launch Date?
 
-> With the data provided from Outcomes based on Launch Date, when using functions in Excel such as applying filters, conditional formatting, converting dates for easier reading. As analyzed above, I think Louise should launch her campaign in May. She can launch from mid-April and see it as a stepping stone to organize things smoothly. The campaign can last from May to June, this is considered the best time because it has a high success rate for all categories in general and the theaters category in particular.
+> With the data provided from Outcomes based on Launch Date, when using functions in Excel such as applying filters, conditional formatting, and converting dates for easier reading. As analyzed above, I think Louise should launch her campaign in May. She can launch from mid-April and see it as a stepping stone to organize things smoothly. The campaign can last from May to June, this is considered the best time because it has a high success rate for all categories in general and the theaters category in particular.
 
-> The second thing, I think Louise should pay close attention to find solutions to increase efficiency and success in the last months of the year. Through the use of the filter function, we can easily find out why the success rate is low. We are still too focused on the US market (the number of successful times in the US is 89 times), so to improve this situation, Louise needs to deploy many new activities to stimulate demand for other countries.
+> The second thing, I think Louise should pay close attention to is finding solutions to increase efficiency and success in the last months of the year. Through the use of the filter function, we can easily find out why the success rate is low. We are still too focused on the US market (the number of successful times in the US is 89 times), so to improve this situation, Louise needs to deploy many new activities to stimulate demand from other countries.
 
 - What can you conclude about the Outcomes based on Goals?
 
-> The line chart shows that a high chance of success if we concentrated on the budget from $1000 to $20,000. This investment amount is reasonable because the probability of success is high, and it does not cause too great a loss. So with the analysis we did on the data and narrowing it down to different target groups, I recommend Louise try budgeting the play under $10,000.
+> The line chart shows that a high chance of success if we concentrate on the budget from $1000 to $20,000. This investment amount is reasonable because the probability of success is high, and it does not cause too great a loss. So with the analysis we did on the data and narrowing it down to different target groups, I recommend Louise try budgeting the play under $10,000.
 
 - What are some limitations of this dataset?
 
-> The focus on the US market too much causes imbalance for the project. Louise needs to rebalance to be able to achieve high efficiency for this project.
+> The focus on the US market causes an imbalance for the project. Louise needs to rebalance to be able to achieve high efficiency for this project.
 
 > Some of the information in this data has not been used like Average Contribution, Backers, Pledge, etc..
 
