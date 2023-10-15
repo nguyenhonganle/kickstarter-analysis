@@ -66,7 +66,7 @@ I went through challenges and difficulties:
    
    - The Kickstarter datasheet is almost complete and makes it easy for me to analyze. It was a bit difficult to retrieve the information at first, but once I understood the problem and found the right solution.
      
-## Results
+## Results project
 
 - What are two conclusions you can draw about the Outcomes based on the Launch Date?
 
