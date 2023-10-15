@@ -5,12 +5,12 @@
 ## Table of Contents:
 
 - [Overview the Project](#overview-the-project)
-- [Purpose](#purpose)
+- [Purpose project](#purpose-project)
 - [Analysis and Challenges](#analysis-and-challenges)
   - [Outcomes Based on Launch Date](#outcomes-based-on-launch-date)
   - [Outcomes Based on Goals](#outcomes-based-on-goals)
   - [Challenges and Difficulties Encountered](#challenges-and-difficulties-encountered)
-- [Results](#results)
+- [Results project](#results-project)
 
 ## Overview of the Project:
 
