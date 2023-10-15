@@ -16,7 +16,7 @@
 
 Retrieved the Kickstarter data of 4115 rows to let Louise can make the decision on how different campaigns fared in relation to their launch dates and their funding goals.
 
-## Purpose
+## Purpose project
 
 Based on the Kickstarter dataset, Louise's play Fever came close to its fundraising goal in a short amount of time. To achieve the goal of this project, she needs to understand of the successful campaigns from begin to end.
 
